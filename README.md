@@ -26,4 +26,5 @@ MonEquip currently has an existing operational database which maintains and stor
 - Data interpretation and insights
 
 ### Reporting Stage:
+- A detailed pdf report documenting the process in detail
 - A poster summarising the overall process and key business insights.
